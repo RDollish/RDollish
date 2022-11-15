@@ -6,11 +6,13 @@
 
 - 😄  My name is Renee Doll!
 
-- 🔭  I’m currently a student at Nashville Software School on the C# and .NET track
+- 🌱  I’m currently a student at Nashville Software School on the C# and .NET track
+
+- 🔭 You can view my client-side capstone here: [Waterrarium](https://github.com/RDollish/aquarium-clientside-capstone)
 
 - :mailbox:  How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9e-doll/)
 
-- ⚡ Fun fact: It is my dream to become the solo developer of a game!
+- ⚡ Fun fact: It is my dream to become the solo developer of a video game!
 
 ## :hammer_and_wrench: My Tools
 
