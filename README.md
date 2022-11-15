@@ -1,13 +1,14 @@
-![RDSprite (1)](https://user-images.githubusercontent.com/110746023/202026546-c9d9ca3e-7c6e-4669-9033-cfb9d552adaa.gif)
+
+  ![RDSprite (1)](https://user-images.githubusercontent.com/110746023/202026546-c9d9ca3e-7c6e-4669-9033-cfb9d552adaa.gif)
 
 
 ## About Me
 
-- 😄 My name is Renee Doll!
+- 😄  My name is Renee Doll!
 
-- 🔭 I’m currently a student at Nashville Software School on the C# and .NET track
+- 🔭  I’m currently a student at Nashville Software School on the C# and .NET track
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9e-doll/)
+- :mailbox:  How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9e-doll/)
 
 - ⚡ Fun fact: It is my dream to become the solo developer of a game!
 
@@ -22,6 +23,7 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDollish&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **RDollish/RDollish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
