@@ -3,7 +3,9 @@
 
 ## About Me
 
-- 🔭 I’m currently a student at Nashville Software School on the C# and .NET track!
+- 😄 My name is Renee Doll!
+
+- 🔭 I’m currently a student at Nashville Software School on the C# and .NET track
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9e-doll/)
 
