@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact: It is my dream to become the solo developer of a game!
 
-### :hammer_and_wrench: My Tools
+## :hammer_and_wrench: My Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
