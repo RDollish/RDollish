@@ -10,7 +10,7 @@
 
 - 🔭 You can view my client-side capstone here: [Waterrarium](https://github.com/RDollish/aquarium-clientside-capstone)
 
-- 🔭 You can view my server-side capstone here: [Lousy Cards]([https://github.com/RDollish/aquarium-clientside-capstone](https://github.com/RDollish/Cards-Fullstack-Capstone))
+- 🔭 You can view my server-side capstone here: [Lousy Cards]([https://github.com/RDollish/aquarium-clientside-capstone](https://github.com/RDollish/Cards-Fullstack-Capstone)
 
 - :mailbox:  How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9e-doll/)
 
