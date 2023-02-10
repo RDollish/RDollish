@@ -12,7 +12,7 @@
 
 - 🔭 You can view my server-side capstone here: [Lousy Cards](https://github.com/RDollish/Cards-Fullstack-Capstone)
 
-- :mailbox:  How to reach me:  [![Linkedin Badge]([https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9e-doll/])
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ren%C3%A9e-doll/)
 
 - ⚡ Fun fact: It is my dream to become the solo developer of a video game!
 
