@@ -6,7 +6,7 @@
 
 - 😄  My name is Renee Doll!
 
-- 🌱  I’m currently a student at Nashville Software School on the C# and .NET track
+- 🌱  I’m an alum of Nashville Software School on the C# and .NET track
 
 - 🔭 You can view my client-side capstone here: [Waterrarium](https://github.com/RDollish/aquarium-clientside-capstone)
 
